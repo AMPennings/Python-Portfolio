@@ -1,0 +1,21 @@
+I've been toying with the idea that alot of documents are
+ automatically read by computers.
+There are some case where you want to include an image in a
+document to give an impression to your human readers,
+ but if its just going to be filtered by machines who can't
+ interpret the meaning of your graphic, its inclusion
+is to your detriment. 
+
+There is of course an easy way around this
+Using small text to form images.
+ 
+Unlike the above example, this approach allows the creation
+of really unique and interesting graphics, with a distinct
+aesthetic. Allowing for your message to be received by both
+robots and humans alike.
+This is a simple GUI which aims to automate this process.
+
+The Gui allows you to determine the position of the line break,
+the number of times the input text is repeated, the font size
+and how the Text and backgrounds color are changed from the
+ initial image.
