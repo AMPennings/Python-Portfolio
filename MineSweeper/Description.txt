@@ -1,0 +1,3 @@
+This is a simple rebuild of the classic game minesweeper.
+It is a simple implementation using PyQt, to demonstrate
+proficiency in building desktop applications.

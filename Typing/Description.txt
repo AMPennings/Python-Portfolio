@@ -1,0 +1,14 @@
+This is a GUI I created to assist with learning to Touch Type.
+As a programmer, typing is an essential skill which needs to be
+constantly maintained and refined. 
+However, there are very few services which allow you to practice
+touch typing specifically for coding. This is a huge gap
+due to the number of special characters required in coding
+making it a very different task to normal typing.
+At the moment it uses local LLMs to generate either random code
+or random text.
+
+In the future I'd be looking at using a better model to generate
+the code, and as a stretch goal trying to retrain a simple LLM
+to make the text more adversarial to the typer (i.e it tries
+to change the text to exploit your weaknesses).
